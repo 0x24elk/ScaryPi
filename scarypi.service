@@ -1,5 +1,5 @@
 [Unit]
-Description=My Sample Service
+Description=Animated Pumpkin Eyes
 After=multi-user.target
 
 [Service]
