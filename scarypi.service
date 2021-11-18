@@ -1,0 +1,10 @@
+[Unit]
+Description=My Sample Service
+After=multi-user.target
+
+[Service]
+Type=idle
+ExecStart=/usr/bin/python /TODO/PATH/TO/scarypi.py -d max7219 --width 16 --height 8 --interface spi --block-orientation=90
+
+[Install]
+WantedBy=multi-user.target
