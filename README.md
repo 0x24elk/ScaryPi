@@ -108,4 +108,4 @@ This is my version of [Michal T Janyst's project](https://mjanyst.weebly.com/ard
 I loved the idea and wanted to build my own for some Halloween fun, but decided to do this
 with a RaspberryPi and python instead of and Arduino.
 
-I've since also created another [Arduino version]https://github.com/0x24elk/ScaryDuino).
+I've since also created another [Arduino version](https://github.com/0x24elk/ScaryDuino).
